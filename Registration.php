@@ -6,7 +6,7 @@ if(isset($_POST['submit']))
             $studentemail = $_POST['s_email'];
             $studentpassword = $_POST['s_password'];
 
-            $query = "insert into exam_register(s_name,s_email,s_password) values('$studentName','$studentemail','$studentpassword')";
+            $query = "insert into user_register(s_name,s_email,s_password) values('$studentName','$studentemail','$studentpassword')";
             $result = mysqli_query($conn,$query);
 
 if($result)

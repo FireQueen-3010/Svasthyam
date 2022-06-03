@@ -68,14 +68,14 @@
      let name=document.querySelector("#name").value;
      let password=document.querySelector("#password").value;
      if(
-       name !="" &&
-       password !=""
+       name =="" &&
+       password ==""
      ){
-      alert(name+"Login successfully !!!");
-     }
-     else{
       alert("enter all fields");
-     }  
+     }
+    //  else{
+    //   alert("enter all fields");
+    //  }  
   }
   </script>
 </html>
