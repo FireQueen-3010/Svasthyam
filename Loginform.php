@@ -30,7 +30,7 @@
             </ul>
         </nav>
         <div class="content">
-            <!-- <h1>Login now</h1> -->
+            <h2>GET READY FOR THE AMAZING FITNESS JOURNEY!</h2>
             <button class="btn-get"><a href="#login">Login Below</a></button>
         </div>
     </header>
