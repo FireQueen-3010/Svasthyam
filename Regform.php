@@ -28,7 +28,7 @@
         </nav>
         <div class="content">
             <!-- <h1>Login now</h1> -->
-            <h2>DIDN'T REGISTER YET FOR THE FIT TRANSFORMATION!</h2>
+            <h2>DID NOT REGISTER YET FOR THE FIT TRANSFORMATION?</h2>
             <button class="btn-get"><a href="#register">Register Below</a></button>
         </div>
     </header>
