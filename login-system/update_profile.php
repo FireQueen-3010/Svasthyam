@@ -110,7 +110,7 @@ if(isset($_POST['update_profile'])){
             <input type="text" name="update_height" value="<?php echo $fetch['name']; ?>" class="box">
             <span>update goal :</span>
             <label>
-            <select id="Goal" name="Goal" class="box" required>
+            <select id="Goal" name="Goals" class="box" required>
             <option value="" selected="Goal">Goals</option>
             <option value="Weight Loss">Weight Loss</option>
             <option value="Weight Gain">Weight Gain</option>
