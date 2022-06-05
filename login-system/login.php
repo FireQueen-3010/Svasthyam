@@ -33,8 +33,10 @@ if(isset($_POST['submit'])){
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
 
+
 </head>
 <body>
+
    
 <div class="form-container">
 
@@ -47,10 +49,13 @@ if(isset($_POST['submit'])){
          }
       }
       ?>
+   
+
       <input type="email" name="email" placeholder="enter email" class="box" required>
       <input type="password" name="password" placeholder="enter password" class="box" required>
       <input type="submit" name="submit" value="login now" class="btn">
       <p>don't have an account? <a href="register.php">register now</a></p>
+      <button class="btn-get"><a href="../index.php">Go To Home</a></button>
    </form>
 
 </div>
