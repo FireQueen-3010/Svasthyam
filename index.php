@@ -50,7 +50,7 @@
             <div class="box">
                 <img src="./images/2.jpg">
                 <div class="info">
-                    <h3>Live Body Weight Workouts</h3>
+                    <h3>Body Weight Workouts</h3>
                     <p>Body-weight training, or resistance training with only your body weight, can be an effective type of strength training and a good addition to your fitness programme. Bodyweight training can be just as effective as free weights or weight machines.</p>
                     <button class="btn-get"><a href="comingsoon.php">More</a></button>
                 </div>
