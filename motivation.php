@@ -37,19 +37,19 @@
    <section class="blog" id="blog">
      <div class="container">
        <div class="title">
-         <h2>Latest Blog</h2>
-         <p>Explore blogs about fitness & diet.</p>
+         <h2>Motivational Stories</h2>
+         <p>Some personal experinces through their own writings!</p>
        </div>
        <div class="blog-content">
          <!-- item -->
          <div class="blog-item">
            <div class="blog-img">
-             <img src="images/1.jpg" alt="">
+             <img src="images/story.jpg" alt="">
            </div>
            <div class="blog-text">
-             <span>01 June, 2022</span>
-             <h2>Music as therapy!</h2>
-             <p>When people are stressed, they experiment with various stress relievers to find relief! Some of us cook, while others watch television or have OCD and clean a lot for relief, but many of us enjoy music. Especially when we work out, and there is also a belief that listening to music while reading helps us relax and memorise things. Similarly, listening to music while working out distracts us from lifting heavy weights and allows us to complete our workouts more efficiently.</p>
+             <span>Santhosi Mehra</span>
+             <h2>Yoga is divine!</h2>
+             <p>Some argue that yoga does not help you shape your body properly! However, it does not apply to everyone! Throughout the session, I noticed a gradual and detailed transformation of my body. Yoga teaches you how to understand your body parts and how they function. What is the significance of our organs? How do they function while working? Every part of the body is vital in its own right. So, I would say that yoga provides both mental and physical satisfaction!</p>
              <!-- <a href = "#">Read More</a> -->
            </div>
          </div>
@@ -57,12 +57,12 @@
          <!-- item -->
          <div class="blog-item">
            <div class="blog-img">
-             <img src="images/images1.jpg" alt="">
+             <img src="images/story2.jpg" alt="">
            </div>
            <div class="blog-text">
-             <span>28 May, 2022</span>
-             <h2>Diet is blessing in disguise!</h2>
-             <p>The mechanism of a body does not change solely through external workouts or hours of sweating in gyms! Some of it should happen naturally, such as through the food we eat. Natural foods such as fresh fruits, leafy vegetables, cereals, and so on not only help you lose weight but also bring peace to your heart and soul! You're feeling light!.</p>
+             <span>Mr&Mrs Mithal</span>
+             <h2>Couple workouts are really fun!</h2>
+             <p>They claim that working out in a group or with our partners does not result in significant improvements in our body shape. But we are vehemently opposed! We have made significant progress in our body's shape, and we now have time to spend. Working out in a couple, a group, or even with your friends will be extremely beneficial in a variety of ways, including: learning more about each other, being able to work out for a longer period of time, and so on.</p>
              <!-- <a href = "#">Read More</a> -->
            </div>
          </div>
@@ -70,14 +70,14 @@
          <!-- item -->
          <div class="blog-item">
            <div class="blog-img">
-             <img src="images/3.jpg" alt="">
+             <img src="images/story3.jpg" alt="">
            </div>
            <div class="blog-text">
-             <span>10 May, 2022</span>
-             <h2>Is weight lifting good for heart?</h2>
-             <p>Some of us worry that lifting weights will cause a heart attack!
-               Certainly not! Lifting weights can be beneficial to your heart health.
-               Lifting weights for less than an hour per week can reduce your risk of heart attack or stroke by up to 70%, according to Iowa State University researchers. We will pass a semester if we only write all subjects; similarly, we can expect our desired body if we do all types of workouts within their exceptional limits!.</p>
+             <span>Mr.Mishra</span>
+             <h2>Minimal Cardio at this age is really good for heart. </h2>
+             <p>Some of us worry that working out at this age  will cause a heart attack!
+               Certainly not! Working on threadmill at minimal speed will be beneficial to your heart health.
+               Doing a minimal cardio  for  an hour every day can reduce your risk of heart attack or stroke.I am having a risk free life because of working out daily . So keep your fears out of your healthy lifestyle and age is just a number right?</p>
              <!-- <a href = "#">Read More</a> -->
            </div>
          </div>
@@ -85,13 +85,12 @@
          <!-- item -->
          <div class="blog-item">
            <div class="blog-img">
-             <img src="images/images/images2.jpg" alt="">
+             <img src="images/story4.jpg" alt="">
            </div>
            <div class="blog-text">
-             <span>19 April, 2022</span>
-             <h2>Which way to go?</h2>
-             <p>Even healthy recipes can be found on our blogs. We demonstrate how to take the appropriate amount of salt or sugar for a meal. Sugars should account for less than 10% of total energy intake in a healthy diet. Reduced even further to less than 5% has additional health benefits.
-               Most of us don't know much about healthy recipes and simply follow anything that shows healthy food! However, we provide you with a perfect balance of health and flavour in your food.</p>
+             <span>Mithali Mehra</span>
+             <h2>Will Zumba be helpful in loosing weight?</h2>
+             <p>Trust me, I initially thought that Zumba would not aid in weight loss, but I enjoy dancing and couldn't resist enrolling in a Zumba class. But all my doubts were washed away when I saw the results for myself after a few months of consistent Zumba practise. It would be very beneficial for people who do not enjoy closed gym areas or mechanical workouts to participate in Zumba.</p>
              <!-- <a href = "#">Read More</a> -->
            </div>
          </div>
@@ -99,12 +98,12 @@
          <!-- item -->
          <div class="blog-item">
            <div class="blog-img">
-             <img src="images/images3.jpg" alt="">
+             <img src="images/story5.jpg" alt="">
            </div>
            <div class="blog-text">
-             <span>22 March, 2022</span>
-             <h2>Live Sessions!</h2>
-             <p>During the COVID situation, everything, including education, painting, and yoga, has become online training. Even after the pandemic has passed, people are still taking precautions and following online mantras! So we offer live online sessions for people who are unable to socialise or who are unable to devote time to working out in the gym or studios.</p>
+             <span>Sunaina Cooper</span>
+             <h2>Leg press really presses your leg.</h2>
+             <p>Some trainers claim that doing leg press does not help tone your legs or shape your thighs! But that is incorrect; I have noticed a significant change in the shape of my legs and toning of my thighs. Leg press really works your legs, but it's for your own good. If you want a perfect shape for your legs, I highly recommend the leg press.</p>
              <!-- <a href = "#">Read More</a> -->
            </div>
          </div>
@@ -112,13 +111,17 @@
          <!-- item -->
          <div class="blog-item">
            <div class="blog-img">
-             <img src="images/images4.jpg" alt="">
+             <img src="images/story6.jpg" alt="">
              <!-- <span><i class = "far fa-heart"></i></span> -->
            </div>
            <div class="blog-text">
-             <span>15 February, 2022</span>
-             <h2>Professional Trainers!</h2>
-             <p>Even in the early stages of our lives, we follow in the footsteps of our parents! Similarly, we pay attention to our teachers in schools and colleges because they are well-experienced and trained to guide us and steer us in the right direction! Only then can we build a secure life for ourselves. Similarly, we connect you with professional trainers who will guide you in the proper way to workout and provide you with the desired results!</p>
+             <span>Jahnavi Gupta</span>
+             <h2>Even without machines we can reduce our weight!</h2>
+             <p>It’s happened to the best of us: We gear up, cue up a killer cycling routine, and head straight for the gym— only to find out it’s temporarily closed (curse you, maintenance!).
+
+With heavy hearts and glutes dying to feel the burn, we sullenly make our way back home. At this point, you may be tempted to give up for the remainder of the day, but don’t change out of your gym clothes just yet! You already have the only workout machine you need on you.
+
+Your body is the best tool you have for getting a great workout in with no equipment needed. Body weight training exercises (moves that force you to push or pull your own weight) can tone and slim your body while adding definition to your muscles. They also prepare you to take on physical activities you need to perform every day from lifting your kids to practicing good posture and carrying heavy bags.</p>
              <!-- <a href = "#">Read More</a> -->
            </div>
          </div>

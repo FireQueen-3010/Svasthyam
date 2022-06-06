@@ -57,13 +57,57 @@
 
       <img src="images/trainer2.jpg">
       <div>
-      <h3>Ryan Krishna</h3>
-      <h4>Age: 30</h4>
-      <h4>Height: 183 cms</h4>
-      <h4>Weight: 90 kgs</h4>
+      <h3>Rishabh Malhotra</h3>
+      <h4>Age: 26</h4>
+      <h4>Height: 168 cms</h4>
+      <h4>Weight: 75 kgs</h4>
       <h4>Goals: Get Fit</h4>
      </div>
    </div>
+   <div class="profile" style="display: flex; flex-direction: row; margin-right: 1rem; flex-wrap:wrap;">
+
+      <img src="images/trainer3.jpg">
+      <div>
+      <h3>Mansi Shah</h3>
+      <h4>Age: 21</h4>
+      <h4>Height: 160 cms</h4>
+      <h4>Weight: 45 kgs</h4>
+      <h4>Goals: Gain weight</h4>
+     </div>
+        </div>
+           <div class="profile" style="display: flex; flex-direction: row; margin-right: 1rem; flex-wrap:wrap;">
+
+      <img src="images/trainer4.jpg">
+      <div>
+      <h3>Rohan Dev</h3>
+      <h4>Age: 26</h4>
+      <h4>Height: 175 cms</h4>
+      <h4>Weight: 45 kgs</h4>
+      <h4>Goals: Gain weight</h4>
+     </div>
+        </div>
+        <div class="profile" style="display: flex; flex-direction: row; margin-right: 1rem; flex-wrap:wrap;">
+
+<img src="images/trainer5.jpg">
+<div>
+<h3>Sasha Dilak</h3>
+<h4>Age: 26</h4>
+<h4>Height: 168 cms</h4>
+<h4>Weight: 105 kgs</h4>
+<h4>Goals: loose weight</h4>
+</div>
+        </div>
+        <div class="profile" style="display: flex; flex-direction: row; margin-right: 1rem; flex-wrap:wrap;">
+
+<img src="images/trainer6.jpg">
+<div>
+<h3>Diksha Sharma</h3>
+<h4>Age: 24</h4>
+<h4>Height: 145 cms</h4>
+<h4>Weight: 45 kgs</h4>
+<h4>Goals: Gain weight</h4>
+</div>
+</div
 
 </div>
 

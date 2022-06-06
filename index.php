@@ -68,7 +68,7 @@
                 <div class="info">
                     <h3>Find Health Recipes</h3>
                     <p>When it comes to your body, you can't just change it by lifting weights or walking for miles and miles on the treadmill or sweating for hours and hours at Zumba! There should be some mechanism that occurs from within as well. As a result, we provide healthy and delicious recipes here.</p>
-                    <button class="btn-get"><a href="login-system/home.php">More</a></button>
+                    <button class="btn-get"><a href="recipes.php">More</a></button>
                 </div>
             </div>
         </div>
