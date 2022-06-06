@@ -92,6 +92,11 @@ if(isset($_POST['update_profile'])){
             <input type="email" name="update_email" value="<?php echo $fetch['email']; ?>" class="box">
             <span>update your pic :</span>
             <input type="file" name="update_image" accept="image/jpg, image/jpeg, image/png" class="box">
+            <span>update weight :</span>
+            <input type="text" name="update_weight" value="<?php echo $fetch['name']; ?>" class="box">
+            <span>change date of birth :</span>
+            <action="/action_page.php">
+         <input type="Date" id="Birthday" name="Birthday" class="box" required>
          </div>
          <div class="inputBox">
             <input type="hidden" name="old_pass" value="<?php echo $fetch['password']; ?>">
@@ -101,10 +106,22 @@ if(isset($_POST['update_profile'])){
             <input type="password" name="new_pass" placeholder="enter new password" class="box">
             <span>confirm password :</span>
             <input type="password" name="confirm_pass" placeholder="confirm new password" class="box">
+            <span>update height :</span>
+            <input type="text" name="update_height" value="<?php echo $fetch['name']; ?>" class="box">
+            <span>update goal :</span>
+            <label>
+            <select id="Goal" name="Goals" class="box" required>
+            <option value="" selected="Goal">Goals</option>
+            <option value="Weight Loss">Weight Loss</option>
+            <option value="Weight Gain">Weight Gain</option>
+            <option value="Stay Fit">Stay Fit</option>
+   </label>
          </div>
       </div>
+     
       <input type="submit" value="update profile" name="update_profile" class="btn">
-      <a href="home.php" class="delete-btn">go back</a>
+      <a  href="home.php" class="delete-btn">go back</a>
+     
    </form>
 
 </div>

@@ -68,8 +68,21 @@ if(isset($_POST['submit'])){
       <input type="email" name="email" placeholder="enter email" class="box" required>
       <input type="password" name="password" placeholder="enter password" class="box" required>
       <input type="password" name="cpassword" placeholder="confirm password" class="box" required>
+      <input type="text" name="name" placeholder="enter Height" class="box" required>
+      <input type="text" name="name" placeholder="enter Weight" class="box" required>
+      <action="/action_page.php">
+         <label for="Date Of Birth">Date Of Birth:</label>
+         <input type="Date" id="Birthday" name="Birthday" class="box" required>
       <input type="file" name="image" class="box" accept="image/jpg, image/jpeg, image/png" placeholder="upload an avtaar">
+      <label>
+            <select id="Goals" name="Goals" class="box" required>
+            <option value="" selected="Goals">Goals</option>
+            <option value="Weight Loss">Weight Loss</option>
+            <option value="Weight Gain">Weight Gain</option>
+            <option value="Stay Fit">Stay Fit</option>
+   </label>
       <input type="submit" name="submit" value="register now" class="btn">
+      <button class="btn-get"><a href="../index.php">Go to home</a></button>
       
       <p>already have an account? <a href="login.php">login now</a></p>
    </form>
