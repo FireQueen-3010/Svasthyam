@@ -45,10 +45,6 @@ if(isset($_GET['logout'])){
          }
       ?>
       <h3><?php echo $fetch['name']; ?></h3>
-      <a href="update_profile.php" class="btn">Height</a>
-      <a href="update_profile.php" class="btn">Weight</a>
-      <a href="update_profile.php" class="btn">date of birth</a>
-      <a href="update_profile.php" class="btn">goal</a>
       <a href="../blog.php" class="btn">Fitness Blog</a>
       <a href="update_profile.php" class="btn">update profile</a>
       <a href="home.php?php echo $user_id; ?>" class="delete-btn">logout</a>
