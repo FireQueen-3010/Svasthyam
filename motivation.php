@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
  <html>
 
  <head>
@@ -19,14 +19,14 @@
        <div class="open"><i class="fas fa-bars"></i></div>
        <ul class="links">
          <li><a href="index.php">Home</a></li>
-         <li><a href="#blog" class="active">Blogs</a></li>
+         <li><a href="#blog" class="active">Motivational Stories</a></li>
          <li><a href="login-system/home.php">Dashboard</a></li>
          <div class="close"><i class="fas fa-times"></i></div>
        </ul>
      </nav>
      <div class="content">
-       <h1>Fitness Blog</h1>
-       <button class="btn-get"><a href="#blog">View Blogs</a></button>
+       <h1>Motivational Stories</h1>
+       <button class="btn-get"><a href="#blog">View Stories</a></button>
      </div>
    </header>
    <!-- end of header -->

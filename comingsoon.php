@@ -22,14 +22,15 @@
             <div class="logo">SV<span>ASTH</span>YAM</div>
             <div class="open"><i class="fas fa-bars"></i></div>
             <ul class="links">
-                <li><a href="#" class="active">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="login-system/register.php">Register</a></li>
                 <li><a href="login-system/home.php">Login</a></li>
                 <div class="close"><i class="fas fa-times"></i></div>
             </ul>
         </nav>
         <div class="content">
-            <h2>This is page is currently under construction!</h2>
+            <h2>This page is currently under construction!</h2>
+            <button class="btn-get"><a href="index.php">Go back</a></button>
 </div>
 </header>
           <!-- Start Footer -->

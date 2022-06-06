@@ -7,14 +7,31 @@
    <title>Network with others</title>
 
     <!-- custom css file link  -->
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="login-system/css/style.css">
+  
 
 </head>
 <body>
-   
-<div class="container">
+<header>
+     <nav>
+       <div class="logo">SV<span>ASTH</span>YAM</div>
+       <div class="open"><i class="fas fa-bars"></i></div>
+       <ul class="links">
+         <li><a href="index.php">Home</a></li>
+         <li><a href="#network" class="active">Network with Others</a></li>
+         <li><a href="login-system/home.php">Dashboard</a></li>
+         <div class="close"><i class="fas fa-times"></i></div>
+       </ul>
+     </nav>
+     <div class="content">
+       <h2>Network with Others</h2>
+       <button class="btn-get"><a href="#network">Find Profiles</a></button>
+     </div>
+   </header> 
+<div class="container" id="network">
 
-   <div class="profile" style="margin-right: 2rem;">
+<div class="profile" style="display: flex; flex-direction: row; margin-right: 1rem; flex-wrap:wrap;">
     <?php
         //  $select = mysqli_query($conn, "SELECT * FROM `user_form` WHERE id = '$user_id'") or die('query failed');
         //  if(mysqli_num_rows($select) > 0){
@@ -28,20 +45,24 @@
       ?> 
       <img src="images/trainer1.jpg">
       <!-- <h3><?php //echo $fetch['name']; ?></h3> -->
+      <div>
       <h3>Ryan Krishna</h3>
       <h4>Age: 30</h4>
       <h4>Height: 183 cms</h4>
       <h4>Weight: 90 kgs</h4>
       <h4>Goals: Get Fit</h4>
+     </div>
    </div>
-   <div class="profile">
+   <div class="profile" style="display: flex; flex-direction: row; margin-right: 1rem; flex-wrap:wrap;">
 
       <img src="images/trainer2.jpg">
+      <div>
       <h3>Ryan Krishna</h3>
       <h4>Age: 30</h4>
       <h4>Height: 183 cms</h4>
       <h4>Weight: 90 kgs</h4>
       <h4>Goals: Get Fit</h4>
+     </div>
    </div>
 
 </div>

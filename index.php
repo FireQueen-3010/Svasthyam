@@ -44,7 +44,7 @@
                 <div class="info">
                     <h3>Motivational Stories</h3>
                     <p>Everyone wishes to be successful and live a healthy lifestyle. We need motivation to do all of the work necessary to achieve our goals, and we also need motivation to work out. Which we provide to our customers in order for them to work hard whenever they feel unmotivated to work out.</p>
-                   <button class="btn-get"><a href="comingsoon.php">More</a></button>
+                   <button class="btn-get"><a href="motivation.php">More</a></button>
                 </div>
             </div>
             <div class="box">
@@ -60,7 +60,7 @@
                 <div class="info">
                     <h3>Network With Others</h3>
                     <p>Some people prefer to work out alone, while others prefer to work out in groups, whether it's through regular dance forms or weight-training with your friends in gyms or even while going for an evening walk! We assist you in networking with others based on your workout preference!</p>
-                    <button class="btn-get"><a href="comingsoon.php">More</a></button>
+                    <button class="btn-get"><a href="findfriends.php">More</a></button>
                 </div>
             </div>
             <div class="box">
@@ -68,7 +68,7 @@
                 <div class="info">
                     <h3>Find Health Recipes</h3>
                     <p>When it comes to your body, you can't just change it by lifting weights or walking for miles and miles on the treadmill or sweating for hours and hours at Zumba! There should be some mechanism that occurs from within as well. As a result, we provide healthy and delicious recipes here.</p>
-                    <!-- <button class="btn">more</button> -->
+                    <button class="btn-get"><a href="login-system/home.php">More</a></button>
                 </div>
             </div>
         </div>
