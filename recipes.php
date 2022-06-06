@@ -19,7 +19,7 @@
        <div class="open"><i class="fas fa-bars"></i></div>
        <ul class="links">
          <li><a href="index.php">Home</a></li>
-         <li><a href="#blog" class="active">Health Recipes</a></li>
+         <li><a href="#blog" class="active">Healthy Recipes</a></li>
          <li><a href="login-system/home.php">Dashboard</a></li>
          <div class="close"><i class="fas fa-times"></i></div>
        </ul>
