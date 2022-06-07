@@ -1,3 +1,15 @@
+<?php
+
+include 'login-system/config.php';
+session_start();
+$user_id = $_SESSION['user_id'];
+
+if (!isset($user_id)) {
+   header('location:login-system/login.php');
+};
+
+?>
+
 <!DOCTYPE html>
  <html>
 
@@ -36,10 +48,10 @@
    <!-- blog -->
    <section class="blog" id="blog">
      <div class="container">
-       <div class="title">
+       <!-- <div class="title">
          <h2>Motivational Stories</h2>
          <p>Some personal experinces through their own writings!</p>
-       </div>
+       </div> -->
        <div class="blog-content">
          <!-- item -->
          <div class="blog-item">

@@ -83,7 +83,7 @@
                 <h1>Fitness Blog</h1>
                 <p>In today's world, fitness has become so important because modern work has become so stressful that we don't care about our health until it is severely harmed or at risk!</p>
                 <p>So, as everything has become a doorstep delivery for us in today's world, we provide you with a fitness centre at your doorstep. We assist you in making time for your workout and in networking with others who have similar workout preferences as your workout partner! This way, you can make new friends while also improving your health!</p>
-                <button class="btn"><a href="login-system/home.php">Learn more</a></button>
+                <button class="btn"><a href="blog.php">Learn more</a></button>
             </div>
         </div>
     </section>

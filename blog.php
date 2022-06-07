@@ -1,3 +1,14 @@
+<?php
+
+include 'login-system/config.php';
+session_start();
+$user_id = $_SESSION['user_id'];
+
+if (!isset($user_id)) {
+   header('location:login-system/login.php');
+};
+
+?>
  <!DOCTYPE html>
  <html>
 
@@ -35,11 +46,11 @@
 
    <!-- blog -->
    <section class="blog" id="blog">
-     <div class="container">
+     <!-- <div class="container">
        <div class="title">
          <h2>Latest Blog</h2>
          <p>Explore blogs about fitness & diet.</p>
-       </div>
+       </div> -->
        <div class="blog-content">
          <!-- item -->
          <div class="blog-item">

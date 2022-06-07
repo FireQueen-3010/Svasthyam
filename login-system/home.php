@@ -56,6 +56,10 @@ if (isset($_GET['logout'])) {
             <h4><span style="color:#E74C3C;">Goal: </span><?php echo $fetch['goal']; ?> </h4>
          </div>
          <a href="update_profile.php" class="btn">Edit Profile</a>
+         <a href="../findfriends.php" class="btn">Find other users</a>
+         <a href="../recipes.php" class="btn">Find healthy recipes</a>
+         <a href="../motivation.php" class="btn">Browse Motivational Stories</a>
+         <a href="../blog.php" class="btn">Browse Fitness Blog</a>
          <a href="../index.php" class="btn">Back Home</a>
          <a href="home.php?logout=<?php echo $user_id; ?>" class="delete-btn">Logout</a>
          <p>New <a href="login.php">Login</a> or <a href="register.php">Register</a></p>
