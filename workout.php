@@ -1,3 +1,14 @@
+<?php
+
+include 'login-system/config.php';
+session_start();
+$user_id = $_SESSION['user_id'];
+
+if (!isset($user_id)) {
+   header('location:login-system/login.php');
+};
+
+?>
 
 <!DOCTYPE html>
  <html>
@@ -51,7 +62,7 @@
      <div class="blog-video">
      <iframe width="350" height="225" src="https://www.youtube.com/embed/aoQrCsOenJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      </div>
-     <div class="workout-text">
+     <div class="blog-text">
      <h2>Dance fit</h2>
              <p>Dance fitness is a type of group excercise calss that incorporates some or many forms of dance.</p>
      </div>
@@ -64,7 +75,7 @@
      <div class="blog-video">
      <iframe width="350" height="225" src="https://www.youtube.com/embed/ml6cT4AZdqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-     <div class="workout-text">
+     <div class="blog-text">
      <h2>Power Hour</h2>
              <p>Our growing softness,our increasing lack of physical fitness,is a meance to our security.</p>
      </div>
@@ -75,7 +86,7 @@
      <div class="blog-video">
      <iframe width="350" height="225" src="https://www.youtube.com/embed/xqVBoyKXbsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-     <div class="workout-text">
+     <div class="blog-text">
      <h2>No Quit Fitness</h2>
              <p>Doing workout is not about better than someone else.It's about being better than you used to be.</p>
      </div>
@@ -88,7 +99,7 @@
      <div class="blog-video">
      <iframe width="350" height="225" src="https://www.youtube.com/embed/hGOYxik3oeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-     <div class="workout-text">
+     <div class="blog-text">
      <h2>Fresh,Fit and Healthy</h2>
              <p>Physical fitness is not only one of the most important keys to a healthy body,it is the basis of dynamic nad creative intellectual activity.</p>
      </div>
@@ -99,7 +110,7 @@
      <div class="blog-video">
      <iframe width="350" height="225" src="https://www.youtube.com/embed/IFQmOZqvtWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-     <div class="workout-text">
+     <div class="blog-text">
      <h2>Make your body</h2>
              <p>A mix of aerobics and body conditioning exercises to give you a balanced workout.It will also improve your stamina and endurance.</p>
      </div>
