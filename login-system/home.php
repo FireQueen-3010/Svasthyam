@@ -48,8 +48,8 @@ if (isset($_GET['logout'])) {
          ?>
          <h3><?php echo $fetch['name']; ?></h3>
          <div style="display:flex; flex-direction:row; flex-wrap: wrap; justify-content: space-evenly; margin-top: 1rem;">
-            <h4><span style="color:#2980B9;">Height: </span><?php echo $fetch['height']; ?>cms </h4>
-            <h4><span style="color:#2980B9;">Weight: </span><?php echo $fetch['weight']; ?>kgs </h4>
+            <h4><span style="color:#5D4697;">Height: </span><?php echo $fetch['height']; ?>cms </h4>
+            <h4><span style="color:#5D4697;">Weight: </span><?php echo $fetch['weight']; ?>kgs </h4>
          </div>
          <div style="display:flex; flex-direction:row; flex-wrap: wrap; justify-content: space-evenly; margin-top: 1rem; margin-bottom: 1rem;">
             <h4><span style="color:#E74C3C;">Age: </span><?php echo $fetch['age']; ?> </h4>
