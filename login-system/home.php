@@ -59,6 +59,7 @@ if (isset($_GET['logout'])) {
          <a href="../findfriends.php" class="btn">Find other users</a>
          <a href="../recipes.php" class="btn">Find healthy recipes</a>
          <a href="../motivation.php" class="btn">Browse Motivational Stories</a>
+         <a href="../workout.php" class="btn">Checkout Workout videos!</a>
          <a href="../blog.php" class="btn">Browse Fitness Blog</a>
          <a href="../index.php" class="btn">Back Home</a>
          <a href="home.php?logout=<?php echo $user_id; ?>" class="delete-btn">Logout</a>

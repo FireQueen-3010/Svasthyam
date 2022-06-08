@@ -38,12 +38,12 @@ if (!isset($user_id)) {
      </nav>
      <div class="content">
        <h2> Our Fitness </h2>
-       <button class="btn-get"><a href="#network">view workout videos</a></button>
+       <button class="btn-get"><a href="#workout">View workout videos</a></button>
      </div>
    </header> 
 
 
-   <section class="blog" id="blog">
+   <section class="blog" id="workout">
      <div class="container">
      <div class="blog-content">
         <!-- item -->
@@ -100,7 +100,7 @@ if (!isset($user_id)) {
      <iframe width="350" height="225" src="https://www.youtube.com/embed/hGOYxik3oeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
      <div class="blog-text">
-     <h2>Fresh,Fit and Healthy</h2>
+     <h2>Fresh, Fit and Healthy</h2>
              <p>Physical fitness is not only one of the most important keys to a healthy body,it is the basis of dynamic nad creative intellectual activity.</p>
      </div>
      </div>
