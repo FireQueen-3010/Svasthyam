@@ -67,10 +67,10 @@ if (!isset($user_id)) {
              <p>Dance fitness is a type of group excercise calss that incorporates some or many forms of dance.</p>
      </div>
      </div>
-    
+     
      <!-- end of item -->
          <!-- item -->
-    
+         
          <div class="blog-item">
      <div class="blog-video">
      <iframe width="350" height="225" src="https://www.youtube.com/embed/ml6cT4AZdqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -94,7 +94,7 @@ if (!isset($user_id)) {
     
     <!-- end of item -->
          <!-- item -->
-
+         
          <div class="blog-item">
      <div class="blog-video">
      <iframe width="350" height="225" src="https://www.youtube.com/embed/hGOYxik3oeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
