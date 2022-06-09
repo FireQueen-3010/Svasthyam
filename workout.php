@@ -64,7 +64,7 @@ if (!isset($user_id)) {
      </div>
      <div class="blog-text">
      <h2>Dance fit</h2>
-             <p>Dance fitness is a type of group excercise calss that incorporates some or many forms of dance.</p>
+             <p>Dance fitness is a type of group excercise class that incorporates some or many forms of dance.</p>
      </div>
      </div>
      
@@ -101,7 +101,7 @@ if (!isset($user_id)) {
       </div>
      <div class="blog-text">
      <h2>Fresh, Fit and Healthy</h2>
-             <p>Physical fitness is not only one of the most important keys to a healthy body,it is the basis of dynamic nad creative intellectual activity.</p>
+             <p>Physical fitness is not only one of the most important keys to a healthy body,it is the basis of dynamic and creative intellectual activity.</p>
      </div>
      </div>
    <!-- end of item -->
